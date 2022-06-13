@@ -2,7 +2,7 @@ Body {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 17px;
 }
 img {
   height: 400px;
@@ -14,7 +14,7 @@ padding-left: 40px;
 background: url(./Waheed.JPG);
 }
 .heading h2{
-    margin-right: 950px;
+    margin-right: 650px;
 }
 a{
     border: 2px solid black;
